@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-grow: 1;
+}
+
+.first{
+    display: flex;
+    flex-grow: 1;
+    background: yellowgreen;
+}
+
+.second{
+    display: flex;
+    flex-grow: 1;
+    background: rebeccapurple;
+}
+
+.third{
+    display: flex;
+    flex-grow: 1;
+    background: violet;
+}
+
+.fourth{
+    display: flex;
+    flex-grow: 1;
+    background: olivedrab;
+}
